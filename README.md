@@ -1,0 +1,1 @@
+Dieses Repository enthält Projekte und Übungen, die im Rahmen des Moduls "Psychological Approach to Data Science" im Masterstudiengang Angewandte Psychologie an der Fachhochschule Nordwestschweiz (FHNW) erstellt wurden. 
