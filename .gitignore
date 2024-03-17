@@ -4,4 +4,4 @@
 # Ignoriert folgende Dateien:
 Intro_JupyterPython.ipynb
 Intro_JupyterPython_Solutions.ipynb
-git-pip.py
+get-pip.py
